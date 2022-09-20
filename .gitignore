@@ -130,3 +130,10 @@ dmypy.json
 
 ## Custom ignores
 SiteHashLog.txt
+ProductAvailabilityLog.txt
+
+# IDE Config
+/.idea/
+
+# macOS files
+.DS_Store
